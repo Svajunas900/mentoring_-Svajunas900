@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> f07fa461892304e9d538f804ea8991a56b88ebd1
 09.12.24.
 Sprint 1
 Task 7
@@ -25,10 +28,13 @@ https://www.linkedin.com/learning/learning-regular-expressions-15586553/write-te
 https://www.linkedin.com/learning/python-practice-collections/try-your-python-programming-skills?u=89254810
 
 https://www.linkedin.com/learning/skill-up-with-python-hands-on-web-development-projects/skill-up-with-python-introduction?u=89254810
+<<<<<<< HEAD
 
 Bonus task:
 https://www.linkedin.com/learning/monitoring-aws-with-cloudwatch-19882023/monitoring-cloud-performance-with-aws-cloudwatch?u=89254810
 https://www.linkedin.com/learning/learning-docker-17236240/get-up-and-running-quick-with-docker?u=89254810
+=======
+>>>>>>> f07fa461892304e9d538f804ea8991a56b88ebd1
 _____________________________________________________________________________________________________________
 10.12.24
 Sprint 1
@@ -87,6 +93,7 @@ Teach materials:
 complete the course of the AWS Cloud Practitioner for getting the high level of the AWS resources:
 https://www.linkedin.com/learning/paths/prepare-for-the-aws-certified-cloud-practitioner-clf-c02-certification?u=89254810
 _____________________________________________________________________________________________________________
+<<<<<<< HEAD
 
 12.12.24
 Sprint 1
@@ -123,3 +130,5 @@ Teach materials:
 https://www.linkedin.com/learning/monitoring-aws-with-cloudwatch-19882023/monitoring-cloud-performance-with-aws-cloudwatch?u=89254810
 https://www.linkedin.com/learning/unit-testing-in-python/python-unit-testing-with-pytest?u=89254810
 _____________________________________________________________________________________________________________
+=======
+>>>>>>> f07fa461892304e9d538f804ea8991a56b88ebd1

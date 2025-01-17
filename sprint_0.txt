@@ -24,17 +24,17 @@ Task1:
     https://www.linkedin.com/learning/learning-docker-17236240?u=89254810
 
 Spended time and Fibo efforts:
-1: 
-2: 
-3:
-4:
-5:
-6:
-7:
-8:
-9:
-10:
-11:
+1: 2
+2: 1
+3: 0
+4: 1
+5: 2
+6: 1
+7: 3
+8: 1
+9: 2
+10: 4
+11: 3
 
 -----------------------------------------------------------------------------------------------------------------
 
@@ -52,9 +52,11 @@ Task 2:
     https://www.linkedin.com/learning/paths/prepare-for-the-aws-certified-security-specialty-scs-c02-certification?u=89254810
 
 Spended time and Fibo efforts:
-1:
-2:
-3:
+1: 1
+2: 0
+3: 2
+
+_____________________________________________________________________________________________________________
 
 _____________________________________________________________________________________________________________
 03.12.24
@@ -128,8 +130,104 @@ Task6:
 
 5. Application should work locally. Create Video presentation of how the application is working
 
+03.12.24
+Taks3:
+1. Leetcode - solve two simple task and push to git repo
+2. Create fibo script using own dictionary cashing implementation
+3. Put Fibo script under decorator which return just Odd the fibo value
+
+<<<<<<< HEAD
+https://www.linkedin.com/learning/flask-essential-training-2019/web-development-with-flask?u=89254810
+https://www.linkedin.com/learning/flask-essential-training-24681038/build-a-full-stack-app-in-python-with-flask?u=89254810
+https://www.linkedin.com/learning/flask-essential-training-2019/web-development-with-flask?u=89254810
+=======
+Python:
+https://www.linkedin.com/learning/sets-in-python-beyond-basics-to-advanced-techniques?u=89254810
+https://www.linkedin.com/learning/unit-testing-in-python/python-unit-testing-with-pytest?contextUrn=urn%3Ali%3AlyndaLearningPath%3A623b6345498ed46b03b56d47&u=89254810
+
+SQL:
+https://www.linkedin.com/learning/sql-practice-intermediate-queries?u=89254810
+
+AWS:
+https://www.linkedin.com/learning/aws-certified-cloud-practitioner-clf-c01-cert-prep-1-cloud-concepts/how-did-we-get-in-the-cloud?contextUrn=urn%3Ali%3AlyndaLearningPath%3A1~AAAAAAVR65o%3D2668188&u=89254810
+
+1: 1
+2: 3
+3: 3
+
+_____________________________________________________________________________________________________________
+04.12.24
+Task4:
+1. Leetcode - solve two simple problem and commit the solutions to github
+2. Create class DataReceiver with the next implementation:
+   a) init class variavle should get the URL
+   b) method get_remote_data should receive the data from wikipedia URL
+   c) method clean_data should remove all none unicode symbols from text and return the cleaned text
+   d) method return_json_text should return the json object with params: "URL" - input user url, "message" - the cleaned text
+   e) method save_to_file should save the json object to the json file
+
+Python:
+https://www.linkedin.com/learning/processing-text-with-python-essential-training?u=89254810
+https://www.linkedin.com/learning/advanced-python-classes-and-functions/introduction?u=89254810
+https://www.linkedin.com/learning/python-practice-object-oriented-programming/try-your-python-programming-skills?u=89254810
+
+AWS: (on page 4 video tutorials with explanation - view all them)
+https://aws.amazon.com/ru/pm/lambda/#Learn_more_about_building_with_AWS_Lambda
+
+1. 1
+2. 1
+_____________________________________________________________________________________________________________
+
+05.12.24
+Task5:
+1. Leetcode - solve two simple problem and commit to github repo
+2. Create class DBSingleton - with singleton implementation of connecting to the sqlite db
+3. Create class RouteFactory - with implementation of the factory for generating different URL which
+   depends of the user input
+4. Create class RateFacade - with implementation of returning 3 different JSON objects
+
+Python:
+https://www.linkedin.com/learning/python-design-patterns-14304845?u=89254810
+
+Flask:
+https://www.linkedin.com/learning/building-restful-apis-with-flask?u=89254810
+
+AWS:
+https://aws.amazon.com/en/sqs/
+https://aws.amazon.com/en/sqs/details/
+https://aws.amazon.com/en/sqs/pricing/
+https://aws.amazon.com/en/s3/
+Rate:
+1: 1
+2: 2
+3: 2
+4: 1
+
+_____________________________________________________________________________________________________________
+06.12.24
+Task6:
+1. Leetcode - solve two simple problem and commit to git repo
+2. Create new repo "Check_Flask". Create simple Flask application with two routes: "simple" "odd"
+3. Route simple should return the Fibo number which user send to this route with GET operation.
+   Example: ....../simple/5 should return the JSON object on the screen with params:
+   {"user number": 5,
+    "Fibo Result": 5}
+4. Route 'odd' should receive the user params with GET operation and return JSON object with the explanation
+   that the return number in the ODD sequence or not:
+   {"user number": 5,
+    "result": if odd - "in sequence", if not odd "not in sequence"}
+
+5. Application should work locally. Create Video presentation of how the application is working
+
 
 https://www.linkedin.com/learning/flask-essential-training-2019/web-development-with-flask?u=89254810
 https://www.linkedin.com/learning/flask-essential-training-24681038/build-a-full-stack-app-in-python-with-flask?u=89254810
 https://www.linkedin.com/learning/flask-essential-training-2019/web-development-with-flask?u=89254810
+Rate:
+1: 1
+2: 1
+3: 1
+4: 1
+5: 1
+>>>>>>> f07fa461892304e9d538f804ea8991a56b88ebd1
 _____________________________________________________________________________________________________________

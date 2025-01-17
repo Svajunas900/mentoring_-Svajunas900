@@ -14,6 +14,7 @@ https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queue
 
 https://www.linkedin.com/learning/python-data-structures-trees/getting-started-with-trees?u=89254810
 _____________________________________________________________________________________________________________
+<<<<<<< HEAD
 27.12.24
 Short Sprint
 Task 18
@@ -29,3 +30,5 @@ https://www.linkedin.com/learning/paths/advance-your-skills-in-python-8969631?u=
 https://www.linkedin.com/learning/python-practice-operations?u=89254810
 https://www.linkedin.com/learning/introducing-jupyter/present-data-like-a-pro-with-jupyter?u=89254810
 _____________________________________________________________________________________________________________
+=======
+>>>>>>> f07fa461892304e9d538f804ea8991a56b88ebd1

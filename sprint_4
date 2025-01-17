@@ -17,6 +17,7 @@ Task 19.
 Extra Teach SQL:
 https://www.linkedin.com/learning/sql-practice-intermediate-queries/try-your-sql-programming-skills?u=89254810
 _____________________________________________________________________________________________________________
+<<<<<<< HEAD
 31.12.24
 Sprint 4
 Task 20.
@@ -33,6 +34,8 @@ Task 20.
    d. All views of the project should be done in one style
 2. all code should be covered with unit tests
 _____________________________________________________________________________________________________________
+=======
+>>>>>>> f07fa461892304e9d538f804ea8991a56b88ebd1
 02.01.25
 Sprint 4
 Task 21

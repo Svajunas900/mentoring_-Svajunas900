@@ -40,6 +40,7 @@ Teach materials:
 https://www.linkedin.com/learning/learning-amazon-web-services-lambda-22774748/monitoring-cloudwatch-logs?resume=false&u=89254810
 https://www.linkedin.com/learning/building-dynamic-websites-using-aws-lambdas/challenge-update-your-html-with-the-lambda-response?resume=false&u=89254810
 _____________________________________________________________________________________________________________
+<<<<<<< HEAD
 
 19.12.24
 Sprint 2
@@ -78,3 +79,5 @@ Teach materials:
 https://www.linkedin.com/learning/advanced-python-23931756/welcome?u=89254810
 https://www.linkedin.com/learning/sql-practice-intermediate-queries/try-your-sql-programming-skills?u=89254810
 _____________________________________________________________________________________________________________
+=======
+>>>>>>> f07fa461892304e9d538f804ea8991a56b88ebd1
